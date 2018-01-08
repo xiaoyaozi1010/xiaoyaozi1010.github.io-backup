@@ -24,11 +24,6 @@ a {
   background: url("http://obqho0ilh.bkt.clouddn.com/bgs/stock-photo-171950947.jpg") no-repeat top center;
   -webkit-background-size: 100% auto;
   background-size: 100% auto;
-  webkit-filter: blur(10px);
-  /* Chrome, Opera */
-  -moz-filter: blur(10px);
-  -ms-filter: blur(10px);
-  filter: blur(10px);
 }
 .resume_bg .resume_title {
   position: relative;
