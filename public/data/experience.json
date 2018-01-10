@@ -1,0 +1,34 @@
+{
+    "code": 0,
+    "data": [{
+        "company": "数据堂",
+        "company_logo_url": "/public/images/datatang.png",
+        "position": "ue设计师",
+        "duration": ["2016/07", "现在"],
+        "description": "各产品线专题页设计，无人驾驶，人脸识别，精准营销，用户画像等；精准营销平台web端全部交互及ui设计，包括交通、政企，金融大数据；AI部门标注平台界面人机交互优化升级；大迈云平台移动端全部ui/ue设计，用户画像输出；金融产品线数据管理平台全部ui/ue设计；视觉部分：全公司对外宣传册；各类大型展会主体背景设计；各类节日海报等。做为设计中心接口人对接全公司各部门设计需求，整理需求池，合理排期，把控设计中心整体工作效率，分派及统计设计中心其它人员工作内容，完成季度考核工作"
+    }, {
+        "company": "VIVA畅读",
+        "company_logo_url": "/public/images/comp_icon_1.jpg",
+        "position": "UI/UE设计/设计主管",
+        "duration": ["2015/02", "2016/07"],
+        "description": "负责《畅读viva》app界面设计，把握主要设计风格，与产品经理沟通产品主要功能及用户体验。包括ios，android端设计，标注，各版本切图及与开发的调试;严格把控开发实现的页面效果与ui设计的页面效果统一。"
+    }, {
+        "company": "美讯易诚（北京）技术有限公司",
+        "company_logo_url": "/public/images/comp_icon_2.jpg",
+        "position": "UI/UE设计",
+        "duration": ["2013/03", "2015/02"],
+        "description": "外派新浪，负责新浪微博政务舆情地方组的ui设计与制作, 负责“微座席”的ui页面改版, 美讯易诚与微信平台对接，负责前期ue设计及ui设计及页面制作。"
+    }, {
+        "company": "北京多元思维信息科技有限公司",
+        "company_logo_url": "/public/images/comp_icon_3.jpg",
+        "position": "UI/UE设计",
+        "duration": ["2011/03", "2013/03"],
+        "description": "参与产品功能的策划及实施。独立负责随我游互联网产品设计，包括Web端、Android手机客户端、iphone手机客户端等UE、UI设计; 应用axure rp pro完成各客户端ue设计。负责外包项目薪福卡界面设计及用户体验,负责部分外包项目游戏官网设计。"
+    }, {
+        "company": "北京八维研修学院",
+        "company_logo_url": "/public/images/comp_icon_4.jpg",
+        "position": "UI/UE讲师",
+        "duration": ["2009/11", "2011/03"],
+        "description": "主讲网页设计开发，从网页制作photoshop,flash到应用html,div+css切割网页, javascript的应用。"
+    }]
+}
